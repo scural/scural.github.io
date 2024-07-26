@@ -21,7 +21,7 @@ repository               : "scural/scural.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github-pic.png"
+  avatar           : "github-pic.jpp"
   name             : "Simay Cural"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "MSc CS student @ Columbia"
