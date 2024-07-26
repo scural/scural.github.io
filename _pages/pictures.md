@@ -1,5 +1,6 @@
 ---
 title: "Coming Soon"
 layout: splash
-permalink: /pictures
+permalink: /pictures/
+author_profile: false
 ---
