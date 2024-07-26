@@ -6,14 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a master student at Columbia University pursing the ML track. Previously I graduated from Colorado College with B.A. in Computer Science. My research interest lies in ...
+Currently, I'm a computer science master student at Columbia University pursing the ML track. Previously I graduated from Colorado College with my B.A. in Computer Science. My interest lies in causal inference and linguistics.
 
-Research
-======
+## Research
+### Texture Importations via GINR's
+### Fake News Detection via GAN's
 
+## Personal Projects
+### AirBNB Price Prediction Model
+### N-Gram Text Summarizer
+### Zipf's Law
 
-Personal Projects
-======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
