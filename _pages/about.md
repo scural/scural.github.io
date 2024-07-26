@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Simay (pronounced *see-my*)! Currently, I'm a computer science master student at Columbia University pursing the ML track. Previously I graduated from Colorado College with my B.A. in Computer Science and a newly procured appreciation for the outdoors. My interests lie in causal inference and linguistics.
+Hi! Currently, I'm a computer science master student at Columbia University pursing the ML track. Previously I graduated from Colorado College with my B.A. in Computer Science and a newly procured appreciation for the outdoors. My interests lie in causal inference and linguistics.
 
 ## Research
 ### Texture Importations via GINR's
